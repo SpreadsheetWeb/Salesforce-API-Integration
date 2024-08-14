@@ -1,6 +1,6 @@
 # Salesforce Loan Calculator Integration
 
-This repository contains a Salesforce project that integrates with the SpreadsheetWeb API to calculate loan payments and generate an amortization schedule. The project includes Apex classes, a Visualforce page, and necessary configuration to perform API calls and display the results in a user-friendly manner.
+This repository contains a Salesforce project that integrates with the SpreadsheetWeb API to perform Excel calculations. It features an Excel spreadsheet for calculating loan payments and generating an amortization schedule, though it can be applied to any Excel file containing worksheet formulas. The project includes Apex classes, a Visualforce page, and necessary configuration to perform API calls and display the results in a user-friendly manner.
 
 ## Components
 
